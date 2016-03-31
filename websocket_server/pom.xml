@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>netty_learn</artifactId>
+        <groupId>netty_learn</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>websocket_server</artifactId>
+
+    <!--<dependencies>-->
+        <!--<dependency>-->
+            <!--<groupId>io.netty</groupId>-->
+            <!--<artifactId>netty-all</artifactId> &lt;!&ndash; Use 'netty-all' for 4.0 or above &ndash;&gt;-->
+            <!--<version>4.0.35.Final</version>-->
+        <!--</dependency>-->
+    <!--</dependencies>-->
+</project>
